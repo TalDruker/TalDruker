@@ -1,6 +1,6 @@
 ### Hi, I'm Tal Druker 👋
 
-Management Information Systems B.A. Graduate & M.Sc. Data Science Student | Passionate Data Analyst turning complex data into actionable insights using Python, SQL, Power BI, and AI-driven workflows.
+Management Information Systems B.A. Graduate & M.Sc. Data Science Student | Data Analyst specializing in Python, SQL, Power BI, and AI-driven workflows.
 
 ---
 
