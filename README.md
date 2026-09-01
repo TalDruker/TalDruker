@@ -1,7 +1,7 @@
 ### Hi, I'm Tal Druker 👋
 
-Management Information Systems Graduate |  
-Passionate Data Analyst turning complex data into actionable insights using Python, SQL, Power BI, and AI-driven workflows.
+Management Information Systems Graduate |  Passionate Data Analyst turning complex data into actionable insights using Python, SQL, Power BI, and AI-driven workflows.
+
 
 ---
 
