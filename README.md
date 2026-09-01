@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi, I'm Tal Druker 👋
 
-<!--
-**TalDruker/TalDruker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Management Information Systems B.A. graduate, Dean's List 2025 (GPA 93.66), and Data Analyst specializing in Python, T-SQL, ETL pipelines, and BI infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Stack
+
+* **Languages & Web:** Python, Java, JavaScript, Node.js, HTML, CSS
+* **Data & Databases:** SQL (T-SQL), PostgreSQL, MongoDB, Pandas, NumPy, MinIO, Docker
+* **Business Intelligence & Analytics:** Power BI, Power Query, Qlik Sense, Tableau, SPSS, Excel
+* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP, Active Directory, AnyDesk
+
+---
+
+### 🚀 Featured Projects
+
+* **[Football Tactical & Performance Analytics](https://github.com/TalDruker/Football-Performance-Analytic)** — Exploratory data analysis on professional football metrics using Pandas, Matplotlib, and Seaborn.
+* **[Automated Football Data Pipeline & BI Dashboard](https://github.com/TalDruker/Football-Airflow-ETL-Pipeline)** — End-to-end data engineering pipeline moving data from MongoDB through Apache Airflow to PostgreSQL, powering an interactive Power BI dashboard.
+* **[Advanced SQL & Data Analysis (WWI)](https://github.com/TalDruker/SQL-Advanced-WideWorldImporters)** — Complex T-SQL analytical queries, CTEs, and window functions utilizing the WideWorldImporters enterprise database.
+* **[SQL Sales Analysis](https://github.com/TalDruker/SQL-Sales-Analysis)** — Relational database DDL setup, structural population, and management queries based on AdventureWorks.
+
+---
+
+### 💼 Currently
+
+* 📊 Building and refining robust data analysis portfolios and ETL workflows.
+* 📈 Deepening expertise in advanced SQL architectures and automated data pipelines.
+* 🔍 Actively looking for Data Analyst, BI Developer, or IS roles.
+
+---
+
+### 📬 Connect with Me
+
+* **LinkedIn:** [Tal Druker](https://www.linkedin.com/in/tal-druker-780500308)
+* **Email:** [Taldru1234@gmail.com](mailto:Taldru1234@gmail.com)
