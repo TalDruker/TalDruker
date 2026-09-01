@@ -1,7 +1,6 @@
 ### Hi, I'm Tal Druker 👋
 
-Management Information Systems Graduate |  Passionate Data Analyst turning complex data into actionable insights using Python, SQL, Power BI, and AI-driven workflows.
-
+Management Information Systems B.A. Graduate & M.Sc. Data Science Student | Passionate Data Analyst turning complex data into actionable insights using Python, SQL, Power BI, and AI-driven workflows.
 
 ---
 
@@ -11,7 +10,7 @@ Management Information Systems Graduate |  Passionate Data Analyst turning compl
 * **Data & Databases:** SQL, PostgreSQL, MongoDB, Pandas, NumPy, MinIO, Docker
 * **Business Intelligence & Analytics:** Power BI, Power Query, Qlik Sense, Tableau, SPSS, Excel
 * **AI & Integration:** AI-Assisted Data Modeling, Prompt Engineering, Automated Pipelines
-* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP, Active Directory
+* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP
 
 ---
 
@@ -26,10 +25,9 @@ Management Information Systems Graduate |  Passionate Data Analyst turning compl
 
 ###  Currently
 
-*  Building and refining robust data analysis portfolios and ETL workflows.
 *  Exploring AI integrations and modern data automation techniques.
-*  Actively looking for Data Analyst, BI Developer, or IS roles.
-
+* Studying for an M.Sc. in Data Science.
+*  Actively looking for Data Analyst, BI Developer, Data Scientist, Project Management, or Information Systems roles.
 ---
 
 ###  Connect with Me
