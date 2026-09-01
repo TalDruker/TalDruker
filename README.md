@@ -1,7 +1,7 @@
 ### Hi, I'm Tal Druker 👋
 
-Management Information Systems B.A. graduate, Dean's List 2025 (GPA 93.66), and Data Analyst specializing in Python, T-SQL, ETL pipelines, and BI infrastructure.
-
+Management Information Systems Graduate | Dean's List 2025 (GPA 93.66)
+Passionate Data Analyst turning complex data into actionable insights using Python, SQL, and Power BI.
 ---
 
 ### 🛠️ Technologies & Stack
