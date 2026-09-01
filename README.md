@@ -9,7 +9,7 @@ Management Information Systems B.A. graduate, Dean's List 2025 (GPA 93.66), and 
 * **Languages & Web:** Python, Java, JavaScript, Node.js, HTML, CSS
 * **Data & Databases:** SQL (T-SQL), PostgreSQL, MongoDB, Pandas, NumPy, MinIO, Docker
 * **Business Intelligence & Analytics:** Power BI, Power Query, Qlik Sense, Tableau, SPSS, Excel
-* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP, Active Directory, AnyDesk
+* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP, Active Directory
 
 ---
 
