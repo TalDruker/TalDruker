@@ -20,6 +20,7 @@ Management Information Systems B.A. Graduate & M.Sc. Data Science Student | Data
 * **[Automated Football Data Pipeline & BI Dashboard](https://github.com/TalDruker/Football-Airflow-ETL-Pipeline)** - End-to-end data engineering pipeline moving data from MongoDB through Apache Airflow to PostgreSQL, powering an interactive Power BI dashboard.
 * **[Advanced SQL & Data Analysis (WWI)](https://github.com/TalDruker/SQL-Advanced-WideWorldImporters)** - Complex T-SQL analytical queries, CTEs, and window functions utilizing the WideWorldImporters enterprise database.
 * **[SQL Sales Analysis](https://github.com/TalDruker/SQL-Sales-Analysis)** - Relational database DDL setup, structural population, and management queries based on AdventureWorks.
+ * **[Superstore BI and AI Insights](https://github.com/TalDruker/Superstore-BI-and-AI-Insights)** - End-to-end data pipeline integrating T-SQL, Python, and Power BI with automated Google Gemini AI executive reporting.
 
 ---
 
