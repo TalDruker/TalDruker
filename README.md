@@ -10,7 +10,7 @@ Management Information Systems B.A. Graduate & M.Sc. Data Science Student | Data
 * **Data & Databases:** SQL, PostgreSQL, MongoDB, Pandas, NumPy, MinIO, Docker
 * **Business Intelligence & Analytics:** Power BI, Power Query, Qlik Sense, Tableau, SPSS, Excel
 * **AI & Integration:** AI-Assisted Data Modeling, Prompt Engineering, Automated Pipelines
-* **Tools & Systems:** Apache Airflow, Git, GitHub, VS Code, Jira, SAP
+* **Tools & Systems:** Apache Airflow, VS Code, Jira, SAP
 
 ---
 
